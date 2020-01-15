@@ -1,5 +1,5 @@
 {
-	"name": "calcosta/cakephp-captcha",
+	"name": "dereuromark/cakephp-captcha",
 	"type": "cakephp-plugin",
 	"description": "A CakePHP plugin to integrate captchas.",
 	"keywords": ["cakephp", "plugin", "captchas", "security"],
