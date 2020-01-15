@@ -3,4 +3,4 @@
  * @var \Captcha\Model\Entity\Captcha $captcha
  */
 
-echo $captcha->image;
+echo stream_get_contents($captcha->image);
